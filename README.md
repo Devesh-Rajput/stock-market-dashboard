@@ -16,8 +16,10 @@ A Streamlit-based web app to analyze stock market trends using real-time data.
 - Plotly
 - yfinance
 
+## 📊 Dashboard Preview
+
+![Stock Dashboard](images/dashboard.png)
+
 ## ▶️ Run Locally
 ```bash
 streamlit run stockAnalyzer.py
-
-![Dashboard](images/dashboard.png)
